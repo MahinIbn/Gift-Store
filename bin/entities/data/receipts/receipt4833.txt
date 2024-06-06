@@ -1,0 +1,18 @@
+Transaction ID: 4833
+
+Purchases: 
+KungFuPanda
+25.0 AED, 2 units.
+
+Total: 50.0 AED + 5% VAT = 52.5 AED.
+
+Date and time completed: 03/07/2022 11:26
+
+Order will be delivered to: 
+Airport
+
+
+Customer: mbs
+Customer Phone No.: 0505728377
+
+Thank you for shopping at KU Gift Store!

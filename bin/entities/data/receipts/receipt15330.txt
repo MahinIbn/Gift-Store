@@ -1,0 +1,21 @@
+Transaction ID: 15330
+
+Purchases: 
+Lamp
+150.2 AED, 3 units.
+Belt
+31.4 AED, 4 units.
+Chess Board
+100.7 AED, 2 units.
+
+Total: 777.5999999999999 AED + 5% VAT = 816.4799999999999 AED.
+
+Date and time completed: 10/05/2022 22:24
+
+Order will be delivered to: 
+Khalifa University SAN Campus
+
+Customer: Syed Affan
+Customer Phone No.: 0523337989
+
+Thank you for shopping at KU Gift Store!

@@ -1,0 +1,19 @@
+Transaction ID: 69314
+
+Purchases: 
+Dark Chocolate
+6.0 AED, 4 units.
+Wristwatch
+60.6 AED, 2 units.
+
+Total: 145.2 AED + 5% VAT = 152.46 AED.
+
+Date and time completed: 12/05/2022 12:15
+
+Order will be delivered to: 
+KU
+
+Customer: Hassan Aboelseoud
+Customer Phone No.: 0544477777
+
+Thank you for shopping at KU Gift Store!

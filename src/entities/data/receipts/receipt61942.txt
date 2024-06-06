@@ -1,0 +1,17 @@
+Transaction ID: 61942
+
+Purchases: 
+Sunglasses
+70.3 AED, 1 units.
+
+Total: 70.3 AED + 5% VAT = 73.815 AED.
+
+Date and time completed: 22/06/2022 10:50
+
+Order will be delivered to: 
+sdf
+
+Customer: mbs
+Customer Phone No.: 0505728377
+
+Thank you for shopping at KU Gift Store!

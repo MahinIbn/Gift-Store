@@ -1,0 +1,23 @@
+Transaction ID: 53679
+
+Purchases: 
+Wristwatch
+60.6 AED, 2 units.
+White Chocolate
+5.0 AED, 6 units.
+Dark Chocolate
+6.0 AED, 4 units.
+Chess Board
+100.7 AED, 2 units.
+
+Total: 376.6 AED + 5% VAT = 395.43000000000006 AED.
+
+Date and time completed: 12/05/2022 01:53
+
+Order will be delivered to: 
+Khalifa University
+
+Customer: Hassan Aboelseoud
+Customer Phone No.: 0503334444
+
+Thank you for shopping at KU Gift Store!
